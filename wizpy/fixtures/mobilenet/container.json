@@ -1,0 +1,4 @@
+{
+        "Image": "695318566406.dkr.ecr.eu-west-2.amazonaws.com/ml-plug-models:mobilenet_belttension_0.1.0",
+        "Mode": "SingleModel"
+}

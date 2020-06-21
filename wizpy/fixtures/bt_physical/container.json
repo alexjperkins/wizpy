@@ -1,0 +1,4 @@
+{
+	"Image": "661600587188.dkr.ecr.eu-west-2.amazonaws.com/plug-ml-models:physical_belttension_0.3.0",
+	"Mode": "SingleModel"
+}

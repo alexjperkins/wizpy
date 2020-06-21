@@ -1,0 +1,10 @@
+{
+	"SecurityGroupIds": [
+		"sg-00ccd00372550c952"
+	],
+	"Subnets": [
+		"subnet-0f5442f95cbde9d6e",
+		"subnet-02a4562df2c19ec13",
+		"subnet-086e6dddf4bf4b248"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"VariantName": "prod-variant-cnn",
+	"InitialInstanceCount": 2,
+	"InstanceType": "ml.t2.medium"
+}

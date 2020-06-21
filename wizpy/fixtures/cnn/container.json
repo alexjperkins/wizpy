@@ -1,0 +1,7 @@
+{
+	"Image": "065448893890.dkr.ecr.eu-west-2.amazonaws.com/ml-plug-models:cnn_belttension_0.1.0",
+	"Mode": "SingleModel",
+	"Environment": {
+		"TESTING_MODE": "true"
+	}
+}
