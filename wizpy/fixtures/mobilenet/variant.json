@@ -1,5 +1,0 @@
-{
-        "VariantName": "prod-variant-mobilenet",
-        "InitialInstanceCount": 2,
-        "InstanceType": "ml.t2.medium"
-}

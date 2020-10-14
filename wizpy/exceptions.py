@@ -1,0 +1,2 @@
+class AddingParamDescriptionToMissingParamError(Exception):
+    pass
