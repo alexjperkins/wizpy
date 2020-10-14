@@ -1,5 +1,0 @@
-{
-	"VariantName": "prod-variant-air-filter",
-	"InitialInstanceCount": 2,
-	"InstanceType": "ml.t2.medium"
-}

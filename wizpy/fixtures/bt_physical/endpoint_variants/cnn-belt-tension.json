@@ -1,5 +1,0 @@
-{
-	"VariantName": "prod-variant-bt-physical",
-	"InitialInstanceCount": 2,
-	"InstanceType": "ml.t2.medium"
-}
